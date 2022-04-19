@@ -1,0 +1,20 @@
+# files/folders to ignore in this project
+
+# windows installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# mac system files
+.DS_store 
+
+# text files
+*.txt 
+
+# /env folder
+/env
+
+# dump file
+*.stackdump
